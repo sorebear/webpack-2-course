@@ -1,0 +1,10 @@
+img {
+   border: 10px solid black;
+   box-sizing: border-box;
+   opacity: 0;
+   transition: all .8s;
+}
+
+img.loaded {
+   opacity: 1;
+}

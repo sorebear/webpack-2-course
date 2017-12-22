@@ -1,0 +1,6 @@
+.image-frame {
+   width: 420px;
+   height: 420px;
+   box-sizing: border-box;
+   background-color: black;
+}
